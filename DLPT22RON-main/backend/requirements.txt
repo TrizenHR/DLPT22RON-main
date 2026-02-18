@@ -1,0 +1,15 @@
+flask
+flask-cors
+numpy
+opencv-python
+torch
+torchvision
+Pillow
+ultralytics
+pyttsx3
+playsound
+transformers
+sentencepiece
+protobuf
+sacremoses
+gTTS
